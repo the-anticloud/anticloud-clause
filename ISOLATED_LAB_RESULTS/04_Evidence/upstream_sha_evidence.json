@@ -1,0 +1,38 @@
+{
+  "project": "CLAUSE",
+  "slug_source": "GitHub search API exact-name top match (candidates quoted)",
+  "picked_slug": "chatopera/clause",
+  "search_url": "https://api.github.com/search/repositories?q=clause&per_page=5",
+  "search_status": 200,
+  "candidates": [
+    {
+      "full_name": "chatopera/clause",
+      "stars": 408,
+      "license": "NOASSERTION"
+    },
+    {
+      "full_name": "ardalis/GuardClauses",
+      "stars": 3314,
+      "license": "MIT"
+    },
+    {
+      "full_name": "r-lyeh/single_file_libs",
+      "stars": 10022,
+      "license": null
+    },
+    {
+      "full_name": "danielwertheim/Ensure.That",
+      "stars": 444,
+      "license": "MIT"
+    },
+    {
+      "full_name": "ucsd-progsys/liquid-fixpoint",
+      "stars": 167,
+      "license": "BSD-3-Clause"
+    }
+  ],
+  "commit_url": "https://api.github.com/repos/chatopera/clause/commits/osc",
+  "commit_status": 200,
+  "default_branch": "osc",
+  "commit_response_excerpt": "{\"sha\":\"cec3363009f5370f30597d38f11c3b9ee6dbc257\",\"node_id\":\"C_kwDODE5D0NoAKGNlYzMzNjMwMDlmNTM3MGYzMDU5N2QzOGYxMWMzYjllZTZkYmMyNTc\",\"commit\":{\"author\":{\"name\":\"Hai Liang Wang\",\"email\":\"hai@chatopera.com\",\"date\":\"2023-11-22T05:12:26Z\"},\"committer\":{\"name\":\"Hai Liang Wang\",\"email\":\"hai@chatopera.com\",\"date\":\"2023-11-22T05:13:33Z\"},\"message\":\"#44 Update Link\",\"tree\":{\"sha\":\"61e218ef8256e7a0e11f011a0ed365432b14c03e\",\"url\":\"https://api.github.com/repos/chatopera/clause/git/trees/61e218ef8256e7a0e11f011a0ed365432b14c03e\"},\"url\":\"https://api.github.com/repos/chatopera/clause/git/commits/cec3363009f53"
+}

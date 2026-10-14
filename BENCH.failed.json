@@ -1,0 +1,10 @@
+{
+  "project": "CLAUSE",
+  "category": "LEGAL_TECH",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\LEGAL_TECH\\CLAUSE",
+  "status": "failed",
+  "reason": "no 40-hex git HEAD SHA (head='REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE'; sanitized clone or .git absent)",
+  "files_count": 87,
+  "lines_of_code": 8425,
+  "sha": "REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE"
+}
