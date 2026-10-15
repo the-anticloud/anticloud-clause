@@ -540,10 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "f96b823e4228252b2927cce3effa550c16b558a5",
-   "url": "https://github.com/ardalis/GuardClauses",
-   "branch": "main",
-   "sha_verified_from": "GitHub API commits/main"
+   "url": "https://github.com/chatopera/clause",
+   "head": "cec3363009f5370f30597d38f11c3b9ee6dbc257",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/ardalis/GuardClauses"
   }
  }
 }
